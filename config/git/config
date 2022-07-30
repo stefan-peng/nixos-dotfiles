@@ -1,19 +1,15 @@
 [user]
-	name = Henrik Lissner
-	email = git@henrik.io
-	signingKey = FA1FADD9440B688CAA75A057B60957CA074D39A3
-[commit]
-	gpgSign = true
-[tag]
-	gpgSign = true
+	name = Stefan Peng
+	email = 6244404+stefan-peng@users.noreply.github.com
+	signingKey = FA1FADD9440B688CAA75A057B60957CA074D39A3S
 [core]
 	whitespace = trailing-space
 [init]
 	defaultBranch = main
 [github]
-	user = hlissner
+	user = stefan-peng
 [gitlab]
-	user = hlissner
+	user = stefan-peng
 [push]
 	autoSquash = true
 [push]
@@ -36,7 +32,7 @@
     insteadOf = gh:
 [url "git@github.com:"]
     insteadOf = ssh+gh:
-[url "git@github.com:hlissner/"]
+[url "git@github.com:stefan-peng/"]
     insteadOf = gh:/
 [url "https://gitlab.com/"]
     insteadOf = gl:

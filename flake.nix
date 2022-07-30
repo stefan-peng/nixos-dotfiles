@@ -1,7 +1,12 @@
 # flake.nix --- the heart of my dotfiles
 #
-# Author:  Henrik Lissner <contact@henrik.io>
+# Author:  Stefan Peng <6244404+stefan-peng@users.noreply.github.com>
+# URL:     https://github.com/speng/nixos-dotfiles
+#
+# Forked from:
+# Author:  Henrik Lissner <contact@henSrik.io>
 # URL:     https://github.com/hlissner/dotfiles
+#S
 # License: MIT
 #
 # Welcome to ground zero. Where the whole flake gets set up and all its modules

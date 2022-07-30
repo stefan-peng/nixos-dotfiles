@@ -61,10 +61,10 @@ dotfiles over there.
 
    # Set HOST to the desired hostname of this system
    HOST=...
-   # Set USER to your desired username (defaults to hlissner)
+   # Set USER to your desired username (defaults to speng)
    USER=...
 
-   git clone https://github.com/hlissner/dotfiles /etc/dotfiles
+   git clone https://github.com/stefan-peng/nixos-dotfiles /etc/dotfiles
    cd /etc/dotfiles
    
    # Create a host config in `hosts/` and add it to the repo:
